@@ -64,7 +64,7 @@
 #links-box .links-item .links-info .links-info-text {
     font-style: oblique;
     font-size: 14px;
-    font-family: ZCOOL XiaoWei,serif;
+    font-family: 'chatgpt','ZCOOL XiaoWei','serif';
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;

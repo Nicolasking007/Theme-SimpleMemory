@@ -179,7 +179,7 @@ body{
     white-space: nowrap;
     text-overflow: ellipsis;
     color: #B8B8B8 !important;
-    font-family: "Merriweather","Open Sans","Microsoft Jhenghei","Microsoft Yahei",sans-serif;
+    font-family: "chatgpt","Merriweather","Open Sans","Microsoft Jhenghei","Microsoft Yahei",sans-serif;
     letter-spacing: 0.01rem;
 }
 
@@ -450,7 +450,7 @@ body{
     overflow: visible;
     margin: 0;
     box-sizing: border-box;
-    font-family: inherit;
+    font-family: 'chatgpt','inherit';
 }
 .container .menu-wrap .input-group-append {
     margin-left: -1px;
