@@ -131,7 +131,6 @@ button {
   src: url('https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf');
   /* 字体文件路径 */
   font-display: swap;
-  font-weight: 400;
 }
 
 html {
@@ -759,7 +758,7 @@ img.sidebar-vip-logo {
 
 .CalTitle td {
   background: #000;
-  font-family:'chatgpt','verdana';
+  font-family: 'chatgpt','verdana';
   font-size: 12px;
   font-weight: 700;
 }
@@ -2642,7 +2641,7 @@ div#tbCommentBodyPreview {
   border-bottom: #3b3b3b 1px solid;
   word-wrap: break-word;
   margin: 24px 0;
-  font-family:"chatgpt", 'Merriweather', "Open Sans", "Microsoft Jhenghei",
+  font-family: "chatgpt", 'Merriweather', "Open Sans", "Microsoft Jhenghei",
     "Microsoft Yahei", sans-serif;
 }
 
@@ -2841,7 +2840,7 @@ details > summary:before {
   border-radius: 100%;
   color: #fff;
   content: "!";
-  font-family: Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+  font-family: 'chatgpt', 'Dosis', 'Source Sans Pro', 'Helvetica Neue', 'Arial', 'sans-serif';
   font-size: 14px;
   font-weight: 700;
   left: -12px;
@@ -3519,7 +3518,7 @@ pre .line-numbers-rows:before {
   top: 1px;
   font-weight: 700;
   position: relative;
-  font-family:"chatgpt", 'Merriweather', "Open Sans", "Microsoft Jhenghei",
+  font-family: "chatgpt", 'Merriweather', "Open Sans", "Microsoft Jhenghei",
     "Microsoft Yahei", sans-serif !important;
   display: inline;
 }
@@ -3576,8 +3575,8 @@ pre .line-numbers-rows:before {
   position: relative;
   bottom: 1px;
   font-size: 13px !important;
-  font-weight: 600;
-  font-family: 'chatgpt',"Ubuntu Mono", monospace !important;
+  font-weight: 400;
+  font-family: 'chatgpt',"Ubuntu Mono", monospace;
 }
 
 #cnblogs_post_body > pre .cnblogs_code_copy a {
