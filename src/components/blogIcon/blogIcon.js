@@ -8,9 +8,9 @@
 
 export default function main(_) {
     if (_.__config.info.blogIcon) {
-        let shortcutIcon = $('link[rel="shortcut icon"]');
-        if (shortcutIcon.length) {
-            shortcutIcon.attr('href', _.__config.info.blogIcon);
+        const faviconElement = $('#favicon');
+        if (faviconElement.length) {
+          faviconElement.attr('href',  _.__config.info.blogIcon);
         } else {
             let linkObject  = document.createElement('link');
             linkObject.rel  = "shortcut icon";

@@ -1,5 +1,19 @@
 # 更新历史
 
+# 2024.12.09 - v2.1.6
+* 修复侧边栏VIP样式异常 [(#444)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/444)
+* font-family顺序调整 [(#449)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/449)
+* 兼容博客园favicon更新 [(#453)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/453)
+* 依赖版本更新
+
+## 2024.07.04 - v2.1.5
+* 文章页复制内容携带版权信息 [(#429)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/429)
+* 文章页评论框打字动效 [(#431)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/431)
+* 友链页增加配置 [(#435)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/435)
+* 国家公祭日和自定义缅怀的日期 [(#439)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/439)
+* 修复拓展图标展示异常 [(#436)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/436)
+* 修复文章页关注博主按钮错位 [(#440)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/440)
+
 ## 2024.01.02 - v2.1.4
 * 修改了博客运行时间的文字描述
 * 调整了“今日诗词”获取的方式
@@ -81,7 +95,7 @@
 
 ## 2021.06.29 - v2.0.5
 * 优化了文章后缀的处理逻辑
-* 右下角菜单增加主页按钮 
+* 右下角菜单增加主页按钮
 * 更新基础样式
 * 修复了因官方调整页面基础结构导致的有时访问页面一直loading的问题
 
@@ -90,7 +104,7 @@
 * 修复了使用 hljs 部分情况出现不换行的问题
 
 ## 2021.06.03 - v2.0.3
-* 考虑性能问题，更改了动效默认配置，默认动效全部不开启 
+* 考虑性能问题，更改了动效默认配置，默认动效全部不开启
 * 现在图片灯箱功能，不会影响图片在文章中原设置的尺寸大小
 * 更新基础样式
 * 修复了 Markdown 编辑的文章，行内代码块没有样式的问题

@@ -71,6 +71,12 @@
   <img src="https://contrib.rocks/image?repo=BNDong/Cnblogs-Theme-SimpleMemory" />
 </a>
 
+## Special Thanks
+
+<a href="https://github.com/wangyang0210">
+    <img width="64" height="64" src="https://avatars.githubusercontent.com/u/36377605?v=4" alt="wangyang0210">
+</a>
+
 ## Author
 
 **Cnblogs-Theme-SimpleMemory** © [BNDong](https://github.com/BNDong), Released under the [MIT](./LICENSE) License.<br>
